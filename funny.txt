@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://purchase-office-attempt-kit.trycloudflare.com
