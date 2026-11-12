@@ -1,1 +1,1 @@
-https://dpi-capitol-surprise-soft.trycloudflare.com
+https://api.trycloudflare.com
